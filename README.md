@@ -1,8 +1,16 @@
-# React + Vite
+# React Real-Time Text Analysis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features:
+- **Real-Time Statistics**:
+  - Unique Word Count (case-insensitive)
+  - Character Count (excluding spaces and punctuation)
+- **String Replacement**:
+  - Replace any string dynamically in the textarea
+  - Highlights replaced words after replacement
 
-Currently, two official plugins are available:
+## How to Run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shaurya35/arthalfa-task
+   cd arthalfa-task
